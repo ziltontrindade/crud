@@ -1,0 +1,10 @@
+Criando sistema CRUD
+
+_------------------------------------------_
+CRIAR BANCO DE DADOS COM O NOME TESTE
+
+CRIAR TABELA COM NOME DE USUARIOS
+
+OS CAMPOS DA TABELA DEVEM SER DE
+
+ID, NOME, EMAIL
