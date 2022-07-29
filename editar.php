@@ -30,7 +30,8 @@ if($id){
 
 <h1>EDITAR USUARIO</h1>
 
-<form action="editar_action.php" method="POST">
+<form action="editar_action.php?" method="POST">
+    <input type="hidden" name="id" value="<?=$info['id'];?>" />
     <label>
         Nome: <br>
         <input type="text" name="name" value="<?=$info['nome'];?>" />
