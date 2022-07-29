@@ -1,5 +1,3 @@
-
-
 <h1>ADICIONAR USUARIO</h1>
 
 <form action="adicionar_action.php" method="POST">
