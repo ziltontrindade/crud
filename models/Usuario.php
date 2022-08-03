@@ -29,6 +29,7 @@ class Usuario {
 interface UsuarioDAO {
      public function add(usuario $u);
      public function findAll();
+     public function findbyEmail($email);
      public function findById($id);
      public function update(Usuario $u);   
      public function delete($id);   
